@@ -1,2 +1,2 @@
 This repository is a log of the problems ive encountered in my java programs and i will be using it to measure my progress for the days to come
-while solving problems on hackerrank or any other competitive platforms make sure you read the question carefully, i didn't and was confused why is my output wrong, until i saw how will the input be in the question itself i had wasted much time, so make sure you read it carefully.
+1. they were quiet tricky at first, but they really make you think and use the differnt logic and functions
